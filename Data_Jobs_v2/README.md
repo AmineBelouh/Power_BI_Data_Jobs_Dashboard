@@ -1,6 +1,6 @@
 # Data Jobs Dashboard V2 w/ Power BI
 
-![Data Jobs Dashboard V2](/images/Data%20Jobs%20V2.png)  
+![Data Jobs Dashboard V2](/images/Data_Jobs_V2.png)  
 
 ## Introduction  
 
@@ -23,7 +23,7 @@ This project put key Power BI features into practice. Here's what we mastered:
 
 This second iteration consolidates the dashboard into a single, focused page, designed to give job seekers the most critical market insights at their fingertips.
 
-![Data Jobs Dashboard V2](/images/Data%20Jobs%20V2.png)  
+![Data Jobs Dashboard V2](/images/Data_Jobs_V2.png)  
 
 This page acts as your concise mission control for the data job market. It showcases key performance indicators (KPIs) like **Job Count, Skills Per Job, Median Yearly Salary, and Median Hourly Salary**. You can also quickly see **Top Skills** (by job percent or count) and **compare Salaries across different Job Titles**, all designed for an efficient overview. 
 
