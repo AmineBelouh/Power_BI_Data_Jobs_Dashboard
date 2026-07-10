@@ -1,6 +1,7 @@
 # Data Jobs Dashboard V2 w/ Power BI
 
 ![Data Jobs Dashboard V2](/images/Data_Jobs_V2.png)  
+![Data Jobs Data Model](/images/Data_Jobs_Data_Model.png)  
 
 ## Introduction  
 
