@@ -1,7 +1,4 @@
-# My Power BI Dashboard Porfolio
-
-This repository is a collection of Power BI dashboards I've developed.  
-Each dashboard has its own README with more details on the build process.  
+2 Dashboards (V1 & V2). Each dashboard has its own README with more details on the build process.  
 
 ## Data Jobs Dashboard V1  
 ![Data Jobs Dashboard](/images/Data_Jobs_V1_1.png)  
